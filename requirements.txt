@@ -1,0 +1,11 @@
+streamlit 
+pymupdf 
+python-dotenv
+groq
+chromadb
+sentence-transformers
+pandas
+numpy
+plotly
+langchain
+langchain-community
